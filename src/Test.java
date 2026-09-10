@@ -1,4 +1,4 @@
-public class Pruebas {
+public class Test {
     public static void main(String[] args) {
         // 1. Instanciar la Tienda
         Tienda tienda = new Tienda();
