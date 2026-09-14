@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package modelo;
+
 public class ItemCarrito {
     private Articulo articulo;
     private int catidad;

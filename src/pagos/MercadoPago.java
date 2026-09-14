@@ -1,4 +1,6 @@
-public class MercadoPago implements MetodoPago{
+package pagos;
+
+public class MercadoPago implements MetodoPago {
     private String emailCuenta;
 
     public MercadoPago(String emailCuenta) {

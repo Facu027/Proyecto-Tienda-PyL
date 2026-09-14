@@ -1,3 +1,5 @@
+package modelo;
+
 public class Articulo {
     private int id;
     private String nombre;

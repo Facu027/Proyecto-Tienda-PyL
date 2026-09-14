@@ -1,3 +1,5 @@
+package pagos;
+
 public class TarjetaCredito implements MetodoPago {
     private String numeroTarjeta;
     private String fechaVencimiento;

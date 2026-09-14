@@ -1,3 +1,7 @@
+package modelo;
+
+import pagos.MetodoPago;
+
 import java.util.ArrayList;
 import java.util.List;
 
